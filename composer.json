@@ -1,5 +1,5 @@
 {
-  "name": "magento/magento-allure-phpunit",
+  "name": "mage-os/magento-allure-phpunit",
   "keywords": [
     "phpunit",
     "testing",
@@ -44,7 +44,7 @@
     "brianium/paratest": "<7.0.3"
   },
   "replace": {
-    "allure-framework/allure-phpunit": "^3.0"
+    "magento/magento-allure-phpunit": "3.0.2"
   },
   "autoload": {
     "psr-4": {
@@ -110,5 +110,6 @@
       "@test-report-windows-lowest",
       "@test-psalm"
     ]
-  }
+  },
+  "version": "1.2.0"
 }
