@@ -1,5 +1,5 @@
 {
-  "name": "magento/magento-allure-phpunit",
+  "name": "mage-os/magento-allure-phpunit",
   "keywords": [
     "phpunit",
     "testing",
@@ -110,5 +110,6 @@
       "@test-report-windows-lowest",
       "@test-psalm"
     ]
-  }
+  },
+  "version": "3.2.0"
 }
